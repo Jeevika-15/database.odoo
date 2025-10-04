@@ -1,6 +1,6 @@
 # database.odoo
-💰 Expense Management System — Team Femgineers
-🏆 Hackathon Project
+ Expense Management System — Team Femgineers
+ Hackathon Project
 
 Developed for the Odoo Win Hackathon by Team Femgineers, this project simplifies and automates expense tracking for company employees.
 
@@ -31,7 +31,7 @@ Backend: Python (Odoo Framework)
 
 Frontend: HTML, CSS, JavaScript
 
-Database: PostgreSQL
+Database: SQL
 
 Tools: VS Code, GitHub
 
